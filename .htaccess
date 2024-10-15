@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteRule ^(.*)$ public/$1 [L]
+
+
+
+
+
+
+
+
+
+
